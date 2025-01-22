@@ -2,19 +2,29 @@
 
 This is a **Tracker App** built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js) and **Apollo GraphQL**. The app allows users to track their expenses and investments, providing real-time insights through interactive charts powered by **Chart.js**.
 
-<<<<<<< HEAD
-
-![alt text](<Screenshot 2025-01-22 121232.png>) ![alt text](<Screenshot 2025-01-22 121353.png>) ![alt text](<Screenshot 2025-01-22 121412.png>) ![alt text](<Screenshot 2025-01-22 121614.png>) ![alt text](<Screenshot 2025-01-22 121826.png>) ![alt text](<Screenshot 2025-01-22 122153.png>) ![alt text](<Screenshot 2025-01-22 121117.png>) ![alt text](<Screenshot 2025-01-22 121157.png>)
-![alt text](<Screenshot 2025-01-22 122035.png>) ![alt text](<Screenshot 2025-01-22 122121.png>) ![alt text](<Screenshot 2025-01-22 122153-1.png>)
-
-=======
->>>>>>> d35540ddbb01f06963a11c7e70d2400237a77a78
 ### 🌟 **Tech Stack:**
 - **MongoDB**: A NoSQL database used to store user data, including expense and investment details.
 - **Express.js**: A lightweight web framework for building the backend server.
 - **React.js**: A front-end library for building interactive and dynamic user interfaces.
 - **Node.js**: A JavaScript runtime for the backend logic.
 - **Apollo GraphQL**: A query language for the API that efficiently handles data fetching, mutations, and managing real-time updates.
+
+ ![Screenshot 2025-01-22 121117](https://github.com/user-attachments/assets/de693751-e414-4189-b0a0-5ef94a59dd53)
+![Screenshot 2025-01-22 121157](https://github.com/user-attachments/assets/7a4de158-0015-4d3c-b84b-8eb1eccf5d68)
+![Screenshot 2025-01-22 121232](https://github.com/user-attachments/assets/4b70c759-6e8c-431a-be3e-2d3b50014165)
+![Screenshot 2025-01-22 121353](https://github.com/user-attachments/assets/dd1a78e1-8cf6-4b8e-bf3f-0bc56ab06ed3)
+![Screenshot 2025-01-22 121412](https://github.com/user-attachments/assets/0ee96ae6-5375-449e-a601-1d0c1b4ca39e)
+
+![Screenshot 2025-01-22 122121](https://github.com/user-attachments/assets/af298063-4d60-42af-bbfd-089801328a09)
+
+
+![Screenshot 2025-01-22 122153](https://github.com/user-attachments/assets/54ca4d25-50ca-4414-91c4-5c33ce71a111)
+
+
+![Screenshot 2025-01-22 182410](https://github.com/user-attachments/assets/69941bc9-7b7f-4127-a839-db5b73fcbbed)
+
+
+
 
 ### 📝 **GraphQL Schema and Resolvers**:
 - **Type Definitions**: Define the structure of data, including types for expenses, investments, and user information.
