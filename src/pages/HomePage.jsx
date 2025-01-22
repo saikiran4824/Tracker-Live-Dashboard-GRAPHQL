@@ -12,21 +12,6 @@ import { GET_TRANSACTION_STATISTICS } from "../graphql/queries/transaction.query
 import { GET_AUTHENTICATED_USER } from "../graphql/queries/user.query";
 import { useEffect, useState } from "react";
 
-// const chartData = {
-// 	labels: ["Saving", "Expense", "Investment"],
-// 	datasets: [
-// 		{
-// 			label: "%",
-// 			data: [13, 8, 3],
-// 			backgroundColor: ["rgba(75, 192, 192)", "rgba(255, 99, 132)", "rgba(54, 162, 235)"],
-// 			borderColor: ["rgba(75, 192, 192)", "rgba(255, 99, 132)", "rgba(54, 162, 235, 1)"],
-// 			borderWidth: 1,
-// 			borderRadius: 30,
-// 			spacing: 10,
-// 			cutout: 130,
-// 		},
-// 	],
-// };
 
 ChartJS.register(ArcElement, Tooltip, Legend);
 

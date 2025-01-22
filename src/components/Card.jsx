@@ -24,7 +24,7 @@ const Card = ({ transaction, authUser }) => {
 		refetchQueries: ["GetTransactions", "GetTransactionStatistics"],
 	});
 
-	// Capitalize the first letter of the description
+	// Capitalize the first letter of the description of the transaction
 	description = description[0]?.toUpperCase() + description.slice(1);
 	category = category[0]?.toUpperCase() + category.slice(1);
 	paymentType = paymentType[0]?.toUpperCase() + paymentType.slice(1);
