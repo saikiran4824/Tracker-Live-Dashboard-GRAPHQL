@@ -9,6 +9,9 @@ This is a **Tracker App** built using the **MERN stack** (MongoDB, Express.js, R
 - **Node.js**: A JavaScript runtime for the backend logic.
 - **Apollo GraphQL**: A query language for the API that efficiently handles data fetching, mutations, and managing real-time updates.
 
+![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/a495cb03-3112-4ad2-991b-de140ffd42a9)
+
+
  ![Screenshot 2025-01-22 121117](https://github.com/user-attachments/assets/de693751-e414-4189-b0a0-5ef94a59dd53)
 ![Screenshot 2025-01-22 121157](https://github.com/user-attachments/assets/7a4de158-0015-4d3c-b84b-8eb1eccf5d68)
 ![Screenshot 2025-01-22 121232](https://github.com/user-attachments/assets/4b70c759-6e8c-431a-be3e-2d3b50014165)
