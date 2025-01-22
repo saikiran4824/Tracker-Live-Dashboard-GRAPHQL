@@ -69,8 +69,5 @@ This is a **Tracker App** built using the **MERN stack** (MongoDB, Express.js, R
 
 ---
 
-<<<<<<< HEAD
+
 This **Tracker App** combines powerful technologies like **GraphQL**, **MongoDB**, and **Chart.js** to provide users with a comprehensive financial tracking experience. Users can easily track their expenses and investments, view real-time data visualizations, and manage their financial data securely through an intuitive and interactive platform.
-=======
-This **Tracker App** combines powerful technologies like **GraphQL**, **MongoDB**, and **Chart.js** to provide users with a comprehensive financial tracking experience. Users can easily track their expenses and investments, view real-time data visualizations, and manage their financial data securely through an intuitive and interactive platform.
->>>>>>> d35540ddbb01f06963a11c7e70d2400237a77a78
