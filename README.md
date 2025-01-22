@@ -2,6 +2,13 @@
 
 This is a **Tracker App** built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js) and **Apollo GraphQL**. The app allows users to track their expenses and investments, providing real-time insights through interactive charts powered by **Chart.js**.
 
+<<<<<<< HEAD
+
+![alt text](<Screenshot 2025-01-22 121232.png>) ![alt text](<Screenshot 2025-01-22 121353.png>) ![alt text](<Screenshot 2025-01-22 121412.png>) ![alt text](<Screenshot 2025-01-22 121614.png>) ![alt text](<Screenshot 2025-01-22 121826.png>) ![alt text](<Screenshot 2025-01-22 122153.png>) ![alt text](<Screenshot 2025-01-22 121117.png>) ![alt text](<Screenshot 2025-01-22 121157.png>)
+![alt text](<Screenshot 2025-01-22 122035.png>) ![alt text](<Screenshot 2025-01-22 122121.png>) ![alt text](<Screenshot 2025-01-22 122153-1.png>)
+
+=======
+>>>>>>> d35540ddbb01f06963a11c7e70d2400237a77a78
 ### 🌟 **Tech Stack:**
 - **MongoDB**: A NoSQL database used to store user data, including expense and investment details.
 - **Express.js**: A lightweight web framework for building the backend server.
@@ -49,4 +56,8 @@ This is a **Tracker App** built using the **MERN stack** (MongoDB, Express.js, R
 
 ---
 
+<<<<<<< HEAD
 This **Tracker App** combines powerful technologies like **GraphQL**, **MongoDB**, and **Chart.js** to provide users with a comprehensive financial tracking experience. Users can easily track their expenses and investments, view real-time data visualizations, and manage their financial data securely through an intuitive and interactive platform.
+=======
+This **Tracker App** combines powerful technologies like **GraphQL**, **MongoDB**, and **Chart.js** to provide users with a comprehensive financial tracking experience. Users can easily track their expenses and investments, view real-time data visualizations, and manage their financial data securely through an intuitive and interactive platform.
+>>>>>>> d35540ddbb01f06963a11c7e70d2400237a77a78
